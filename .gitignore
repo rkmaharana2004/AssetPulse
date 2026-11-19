@@ -1,0 +1,25 @@
+# Compiled Java class files and build directories
+backend/target/
+*.class
+
+# Node / Frontend build directories and dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs and runtime files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Untracked project blueprint
+assetpulse_project_blueprint.md
